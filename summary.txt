@@ -1,0 +1,1 @@
+In this video we learn about how micro processors are an indispensable part of any computational device how they came into existence and how they function in our upcoming videos . Micro processors were first invented 50 years ago at a young Silicon Valley startup called Intel the first microprocessor was the Intel for double of four invented in 1971 and it was a 4-bit processor .
